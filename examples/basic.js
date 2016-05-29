@@ -1,4 +1,4 @@
-var PSG = require("../phantomjs-sitemap-generator");
+var PSG = require("phantomjs-sitemap-generator");
 
 if( process.argv.length > 2 ) {
   var options = { verbose: true, snapshot: true };

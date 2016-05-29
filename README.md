@@ -3,7 +3,7 @@ phantomjs-sitemap-generator
 
 A nodejs module to generate sitemaps using PhantomJS
 
-It can fetch AngularJS (or similar JS frameworks/libraries) websites
+It can fetch AngularJS websites (or similar JS frameworks/libraries)
 
 EXAMPLE
 -------

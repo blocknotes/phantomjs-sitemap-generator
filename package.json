@@ -1,8 +1,8 @@
 {
-  "name": "phantom-sitemap-generator",
-  "version": "0.1.2",
+  "name": "phantomjs-sitemap-generator",
+  "version": "0.1.5",
   "description": "PhantomJS sitemap generator",
-  "main": "phantom-sitemap-generator.js",
+  "main": "phantomjs-sitemap-generator.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
