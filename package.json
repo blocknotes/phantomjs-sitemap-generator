@@ -1,0 +1,27 @@
+{
+  "name": "phantom-sitemap-generator",
+  "version": "0.1.2",
+  "description": "PhantomJS sitemap generator",
+  "main": "phantom-sitemap-generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web-crawler",
+    "crawler",
+    "scraping",
+    "website-crawler",
+    "crawling",
+    "web-bot",
+    "sitemap",
+    "sitemap-generator",
+    "phantomjs"
+  ],
+  "author": "Mat, mat@blocknot.es",
+  "license": "MIT",
+  "dependencies": {
+    "phantom": "^2.0.10",
+    "q": "^1.4.1",
+    "sitemap": "^1.5.0"
+  }
+}
